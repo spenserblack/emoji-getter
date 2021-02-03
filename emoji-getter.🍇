@@ -1,5 +1,10 @@
-🏁 🍇
+🏁 ➡️ 🔢🍇
   🎞 🐇 💻 ❗️ ➡️ args
+
+  ↪️ 📏 args ❓ ◀️ 2 🍇
+    😀 🔤Text used to find an emoji must be passed as argument 1🔤 ❗️
+    ↩️ 1
+  🍉
 
   🐽 args 1 ❗️ ➡️ emojiText
   🆕😶 🔤👻🔤 🍿 🔤halloween🔤 🍆 ❗️ ➡️ ghost
@@ -23,6 +28,7 @@
       🍉
     🍉
   🍉
+  ↩️ 0
 🍉
 
 💭 Emoji Class
