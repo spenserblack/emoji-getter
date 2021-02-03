@@ -1,4 +1,7 @@
 🏁 🍇
+  🎞 🐇 💻 ❗️ ➡️ args
+
+  🐽 args 1 ❗️ ➡️ emojiText
   🆕😶 🔤👻🔤 🍿 🔤halloween🔤 🍆 ❗️ ➡️ ghost
   🆕😶 🔤🎃🔤 🍿 🔤halloween🔤 🍆 ❗️ ➡️ jackOLantern
   🆕😶 🔤🎅🔤 🍿 🔤christmas🔤 🍆 ❗️ ➡️ santa
@@ -8,17 +11,14 @@
     🔤santa🔤 ➡️ santa
   🍆 ➡️ emojis
 
-  😀 🔤emoji mappings:🔤 ❗️
-  ↪️ 🐽 emojis 🔤ghost🔤 ❗️ ➡️ ghostEmoji 🍇
-    😀 🔤ghost -> 🧲 🖼️  ghostEmoji ❓ 🧲🔤 ❗️
+  ↪️ 🐽 emojis emojiText ❗️ ➡️ emoji 🍇
+    😀 🖼️ emoji ❓  ❗️
   🍉
   🙅 🍇
-    😀 🔤halloween ->🔤 ❗️
     🐙 emojis ❗️ ➡️ keys
     🔂 key keys 🍇
-      😀 🔤key: 🧲 key 🧲🔤 ❗️
       🍺 🐽 emojis key ❗️ ➡️ emoji
-      ↪️  🐦 📒 emoji ❓ 🔤halloween🔤 ❓ 🍇
+      ↪️  🐦 📒 emoji ❓ emojiText ❓ 🍇
         😀 🖼️ emoji ❓❗️
       🍉
     🍉
