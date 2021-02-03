@@ -1,5 +1,5 @@
 # emoji-getter
-An emoji getter written with [EmojiCode] :smiley:
+An emoji getter written with [Emojicode] :smiley:
 
 ## Build
 
@@ -14,4 +14,4 @@ An emoji getter written with [EmojiCode] :smiley:
 ./emoji-getter <emoji name or keyword>
 ```
 
-[EmojiCode]: https://www.emojicode.org/
+[Emojicode]: https://www.emojicode.org/
