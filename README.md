@@ -1,4 +1,4 @@
-# emoji-picker
-An emoji picker written with [EmojiCode] :smiley:
+# emoji-getter
+An emoji getter written with [EmojiCode] :smiley:
 
 [EmojiCode]: https://www.emojicode.org/
