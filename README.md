@@ -1,6 +1,9 @@
 # emoji-getter
 An emoji getter written with [Emojicode] :smiley:
 
+Get an emoji by searching its name, or multiple emojis
+by searching with a keyword.
+
 ## Build
 
 1. Install Emojicode
