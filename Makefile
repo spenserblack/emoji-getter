@@ -1,7 +1,7 @@
 .PHONY: clean
 
 clean:
-	rm emoji-getter emoji-getter.o
+	rm emoji-getter main.o
 
 emoji-getter:
-	emojicodec emoji-getter.🍇
+	emojicodec -o emoji-getter main.🍇
