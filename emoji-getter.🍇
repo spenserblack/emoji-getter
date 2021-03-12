@@ -35,7 +35,7 @@
     🐙 emojis ❗️ ➡️ keys
     🔂 key keys 🍇
       🍺 🐽 emojis key ❗️ ➡️ emoji
-      🐦 📒 emoji ❓ emojiText ❓ ➡️ keywordMatch
+      🐦 emoji emojiText ❓ ➡️ keywordMatch
       ❎ 🔍 key emojiText ❗️ 🙌 🤷 ❗️ ➡️ containedInName
       ↪️ keywordMatch 👐 containedInName 🍇
         😀 🖼️ emoji ❓❗️
@@ -57,5 +57,8 @@
   🍉
   ❓ 📒 ➡️  🍨🐚🔡🍆 🍇
     ↩️ keywords
+  🍉
+  ❓ 🐦 keyword 🔡 ➡️ 👌 🍇
+    ↩️ 🐦 keywords keyword ❓
   🍉
 🍉
