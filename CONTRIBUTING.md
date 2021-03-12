@@ -1,6 +1,7 @@
 # Contributing
 
-Thank you for your interest in contributing! The easiest way to contribute is to add a new emoji.
+Thank you for your interest in contributing! The easiest way to contribute is to
+[add a new emoji][emoji definition file].
 Please see the section below for how to do so.
 
 ## Adding an emoji
@@ -28,3 +29,5 @@ const emojis = {
 ```
 
 Hopefully, this has helped you prepare for adding a new emoji. Have fun! :smiley:
+
+[emoji definition file]: ./😶.🍇
