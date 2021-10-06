@@ -30,4 +30,4 @@ const emojis = {
 
 Hopefully, this has helped you prepare for adding a new emoji. Have fun! :smiley:
 
-[emoji definition file]: ./😶.🍇
+[emoji definition file]: ./main.🍇
