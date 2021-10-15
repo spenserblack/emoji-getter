@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Get emojicodec
+      run: |
+        wget https://github.com/emojicode/emojicode/releases/download/v1.0-beta.2/Emojicode-1.0-beta.2-Linux-x86_64.tar.gz -O emojicode.tar.gz
+        tar -xzf emojicode.tar.gz
+      
+    - name: Build
+      run: ./Emojicode-1.0-beta.2-Linux-x86_64/emojicodec main.🍇
