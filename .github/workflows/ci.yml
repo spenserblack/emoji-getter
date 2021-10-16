@@ -20,4 +20,6 @@ jobs:
         tar -xzf emojicode.tar.gz
       
     - name: Build
-      run: ./Emojicode-1.0-beta.2-Linux-x86_64/emojicodec main.🍇
+      uses: spenserblack/actions-build-emojicode@v0.1.0
+      with:
+        filename: main.🍇
