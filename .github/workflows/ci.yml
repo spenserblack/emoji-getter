@@ -14,6 +14,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2   
     - name: Build
-      uses: spenserblack/actions-build-emojicode@v0.1.0
+      uses: spenserblack/actions-build-emojicode@v0.1
       with:
         filename: main.🍇
