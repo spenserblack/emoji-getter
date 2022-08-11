@@ -6,6 +6,9 @@ clean:
 clean-tests:
 	rm test test.o
 
+node_modules:
+	yarn
+
 emoji-getter:
 	emojicodec -o emoji-getter main.🍇
 

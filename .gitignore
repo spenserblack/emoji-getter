@@ -1,3 +1,4 @@
 emoji-getter
 main.o
 test
+node_modules/
