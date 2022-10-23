@@ -1,0 +1,8 @@
+{
+  "name": "emoji-getter",
+  "private": true,
+  "version": "0.0.0",
+  "devDependencies": {
+    "emojilib": "^3.0.7"
+  }
+}
